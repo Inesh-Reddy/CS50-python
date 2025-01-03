@@ -34,7 +34,7 @@ def main():
     num1, num2 = get_numbers();
     operator = get_operator();
     result = calculate(num1, num2, operator);
-    print(f"The result of {num1} {operator} {num2} is: {result}")
+    print(f"[✅] The result of {num1} {operator} {num2} is: {result}")
 
 
 if __name__ == "__main__":
