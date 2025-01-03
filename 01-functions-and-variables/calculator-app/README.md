@@ -1,5 +1,6 @@
 # Simple Python Calculator
-
+## Result
+![alt text](image.png)
 ## Project Description
 A command-line calculator application that performs basic arithmetic operations using Python functions. The calculator takes user input for numbers and operations, then returns the calculated result. This project demonstrates the understanding of functions, variables, and basic user input/output in Python.
 

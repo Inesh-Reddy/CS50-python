@@ -28,7 +28,9 @@ def calculate(num1, num2, operator):
         return num1 % num2
 
 def main():
-    print("calculator app")
+    print("------------------------------------------------------------");
+    print("##########             Calculator App             ##########");
+    print("------------------------------------------------------------");
     num1, num2 = get_numbers();
     operator = get_operator();
     result = calculate(num1, num2, operator);
